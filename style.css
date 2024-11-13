@@ -81,9 +81,10 @@ a.tbl-biru:hover {
 
 .hero img {
     margin-top: 20px;
-    width: 300;
-    height: 300;
+    width: 50;
+    height: 50;
 }
+
 
 /* Layanan Section */
 .layanan {
@@ -108,6 +109,7 @@ a.tbl-biru:hover {
 .produk {
     padding: 50px;
     text-align: center;
+    background-image: url('https://i.pinimg.com/originals/e5/8d/18/e58d1806b598050f8953e933a23a8bae.gif');
 }
 
 .produk .product-list {
@@ -227,5 +229,9 @@ textarea{
 
 #Contact{
     background-color: #02caa9;
+}
+
+.form-container h3{
+    align-items: center;
 }
 
